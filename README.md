@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iacopo Bicchierini</h1>
 <h3 align="center">A passionate Computer Engineer from Italy</h3>
 
+- 🔭 I’m currently working on [Plant Leaves Search Engine](https://github.com/Bicchie/Plant-Leaves-Search-Engine---MIRCV)
+
+- 🌱 I’m currently learning **the fundamental concepts of Artificial Intelligence and Data Engineering in the homonymous Master of Science degree at Università di Pisa**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Bicchie?tab=repositories](https://github.com/Bicchie?tab=repositories)
+
+- 📫 How to reach me **bicchierini.iacopo@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
